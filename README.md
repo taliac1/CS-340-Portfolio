@@ -9,4 +9,4 @@ How do you approach a problem as a computer scientist? Consider how you approach
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-one of the many things Computer scientists do is help develop and fix programs which is insanely helpful to have a company run. Without computer scientists programs wouldnt be created/updates or even fixed.
+-one of the many things Computer scientists do is help develop and fix programs which is insanely helpful to have a company run. Without computer scientists programs wouldnt be created/updates or even fixed.
